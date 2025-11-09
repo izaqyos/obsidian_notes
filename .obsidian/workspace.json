@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/Sensitive/github PATs.md",
+                "file": "checkpoint/My Team/1On1/Yocheved/Yocheved 2025 1 on 1 meetings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "github PATs"
+              "title": "Yocheved 2025 1 on 1 meetings"
             }
           }
         ]
@@ -171,12 +171,17 @@
   },
   "active": "dd5056010330bde8",
   "lastOpenFiles": [
-    "checkpoint/My Team/Code/PRs/Miri/saferx-handler - Route Table V3 Optimization.md",
+    "checkpoint/My Team/Yocheved.md",
+    "checkpoint/My Team/1On1/Miri/Miri 2025 1 on 1 meetings.md",
+    "checkpoint/My Team/1On1/Yocheved/Yocheved 2025 1 on 1 meetings.md",
+    "checkpoint/My Team/Miri.md",
+    "checkpoint/My Team/1On1/Yair/Yair 2025 1 on 1 meetings.md",
+    "checkpoint/My Team/1On1/1 on 1 template.md",
     "checkpoint/Sensitive/github PATs.md",
+    "checkpoint/My Team/Code/PRs/Miri/saferx-handler - Route Table V3 Optimization.md",
     "checkpoint/Sensitive",
     "checkpoint/My Team/Code/PRs/Osher/Move migration to expose 13 proxmox regions to NGN from 18.md",
     "checkpoint/My Team/Code/PRs/Miri/P81-86059 send ha tunnel id to validation function.md",
-    "checkpoint/My Team/1On1/Yair/Yair 2025 1 on 1 meetins.md",
     "checkpoint/My Team/Team Meetings/2025 Team meetings.md",
     "checkpoint/My Team/1On1/Chen/Chen 2025 1 on 1 meetings.md",
     "checkpoint/My Team/Yair.md",
@@ -205,17 +210,12 @@
     "checkpoint/My Team/Code/PRs/Yocheved/saferx-handler - Network Beacon Set Visible False.md",
     "checkpoint/My Team/Imagine dragons team.md",
     "checkpoint/Management knowledge",
-    "checkpoint/Keren/Meetings/Keren Meetings with Keren 5.10.md",
-    "checkpoint/My Team/Chen.md",
     "checkpoint/My Team/Team Meetings",
-    "checkpoint/My Team/1On1/1 on 1 template.md",
     "checkpoint/My Team/1On1/Muhe",
     "checkpoint/My Team/1On1/Miri",
     "checkpoint/My Team/1On1/Yocheved",
     "checkpoint/My Team/1On1/Yair",
-    "checkpoint/My Team/1On1/Untitled.md",
     "checkpoint/My Team/1On1/Chen",
-    "checkpoint/My Team/Code/PRs/Chen/PR 5050 perimeter81-webclient - Applications Policy Dropdown Scrolling.md",
     "Pasted image 20251030145958.png"
   ]
 }
