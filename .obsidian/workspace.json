@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/My Team/1On1/Yocheved/Yocheved 2025 1 on 1 meetings.md",
+                "file": "checkpoint/My Team/Discovery/2026_Q1/2026 Q1 Discovery meetings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yocheved 2025 1 on 1 meetings"
+              "title": "2026 Q1 Discovery meetings"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/My Team/1On1/Chen/Chen 2025 1 on 1 meetings.md",
+                "file": "checkpoint/Architecture/ProxMox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chen 2025 1 on 1 meetings"
+              "title": "ProxMox"
             }
           }
         ]
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "imagine dr",
+                "query": "discovery q1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5004348754883
+    "width": 367.5004348754883
   },
   "right": {
     "id": "f00f163a41a45fb4",
@@ -185,13 +185,23 @@
   },
   "active": "ea65a1c467f94cc3",
   "lastOpenFiles": [
+    "checkpoint/Architecture/ProxMox.md",
+    "checkpoint/My Team/1On1/Chen/Chen 2025 1 on 1 meetings.md",
+    "checkpoint/Architecture",
+    "checkpoint/My Team/Discovery/2026_Q1/2026 Q1 Discovery meetings.md",
+    "checkpoint/Organizational structure.md",
+    "checkpoint/Keren/Meetings/Keren Meeting 02.11.md",
+    "checkpoint/My Team/Imagine dragons team.md",
+    "checkpoint/My Team/Discovery/2026_Q1/Erase Network on unsubscribe.md",
+    "checkpoint/My Team/Code/Networking Domain/Networking Domain HLD High Level Design.md",
+    "Pasted image 20251116164645.png",
+    "checkpoint/My Team/1On1/Yocheved/Yocheved 2025 1 on 1 meetings.md",
+    "checkpoint/Keren/Meetings/Keren Meeting 11.11.md",
+    "Pasted image 20251116153032.png",
+    "Pasted image 20251116153010.png",
     "Pasted image 20251116152852.png",
     "Pasted image 20251116152806.png",
     "Pasted image 20251116152624.png",
-    "checkpoint/My Team/1On1/Chen/Chen 2025 1 on 1 meetings.md",
-    "checkpoint/My Team/1On1/Yocheved/Yocheved 2025 1 on 1 meetings.md",
-    "checkpoint/My Team/Discovery/2026_Q1/Discovery meetings.md",
-    "checkpoint/My Team/Imagine dragons team.md",
     "checkpoint/Checkpoint Home.md",
     "checkpoint/My Team/Code/Git repositories.md",
     "checkpoint/My Team/Code/HLDs/HLD Deletion of terminated account - Delete GWs.md",
@@ -208,28 +218,18 @@
     "checkpoint/My Team/Features",
     "checkpoint/My Team/Code/PRs/Miri/Update HA Tunnel on Delete.md",
     "checkpoint/Management knowledge/TL onboarding 5.11.md",
-    "Pasted image 20251112154313.png",
-    "checkpoint/Keren/Meetings/Keren Meeting 11.11.md",
     "checkpoint/My Team/Code/PRs/Miri/P81-86059 send ha tunnel id to validation function.md",
     "checkpoint/My Team/Bugs tickets outages/Network Policy Pending fix.md",
     "checkpoint/My Team/Bugs tickets outages/Outage in staging 23.10 , requeue.md",
     "checkpoint/My Team/Bugs tickets outages/SXH Crashing.md",
     "checkpoint/My Team/Bugs tickets outages/Greyed out networks 11.25.md",
-    "Pasted image 20251112145044.png",
-    "Pasted image 20251112110752.png",
-    "Pasted image 20251112110723.png",
     "checkpoint/My Team/Code/PRs/Muhe/remove visible from beacon query.md",
     "checkpoint/My Team/Discovery/2026_Q1",
     "checkpoint/My Team/Discovery",
-    "public_obsidian/Programming/DataStructures/Python/Generators.md",
     "public_obsidian/Programming/DataStructures/Python",
-    "checkpoint/My Team/Code/KT/KT Session Muhe 10.11.md",
-    "checkpoint/My Team/Code/KT/KT Session Osher 10.11.md",
-    "checkpoint/Keren/Meetings/Keren Meeting 02.11.md",
     "checkpoint/My Team/Code/KT",
     "checkpoint/Sensitive",
     "checkpoint/My Team/Program and Execution",
-    "public_obsidian/Programming/Rust",
-    "checkpoint/Management knowledge"
+    "public_obsidian/Programming/Rust"
   ]
 }
