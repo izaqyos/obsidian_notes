@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/My Team/Discovery/2026_Q1/2026 Q1 Discovery meetings.md",
+                "file": "checkpoint/My Team/Code/Networking Domain/Networking Domain HLD High Level Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026 Q1 Discovery meetings"
+              "title": "Networking Domain HLD High Level Design"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "discovery q1",
+                "query": "networking domain hld",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,11 +88,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 367.5004348754883
+    "width": 200
   },
   "right": {
     "id": "f00f163a41a45fb4",
@@ -185,10 +186,11 @@
   },
   "active": "ea65a1c467f94cc3",
   "lastOpenFiles": [
+    "checkpoint/My Team/Eng driven.md",
+    "checkpoint/My Team/Discovery/2026_Q1/2026 Q1 Discovery meetings.md",
     "checkpoint/Architecture/ProxMox.md",
     "checkpoint/My Team/1On1/Chen/Chen 2025 1 on 1 meetings.md",
     "checkpoint/Architecture",
-    "checkpoint/My Team/Discovery/2026_Q1/2026 Q1 Discovery meetings.md",
     "checkpoint/Organizational structure.md",
     "checkpoint/Keren/Meetings/Keren Meeting 02.11.md",
     "checkpoint/My Team/Imagine dragons team.md",
@@ -223,7 +225,6 @@
     "checkpoint/My Team/Bugs tickets outages/Outage in staging 23.10 , requeue.md",
     "checkpoint/My Team/Bugs tickets outages/SXH Crashing.md",
     "checkpoint/My Team/Bugs tickets outages/Greyed out networks 11.25.md",
-    "checkpoint/My Team/Code/PRs/Muhe/remove visible from beacon query.md",
     "checkpoint/My Team/Discovery/2026_Q1",
     "checkpoint/My Team/Discovery",
     "public_obsidian/Programming/DataStructures/Python",
