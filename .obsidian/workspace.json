@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/My Team/Code/Networking Domain/Networking Domain HLD High Level Design.md",
+                "file": "prs/index_prs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networking Domain HLD High Level Design"
+              "title": "index_prs"
+            }
+          },
+          {
+            "id": "a6b0f2ddbfdf8834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "checkpoint/My Team/Imagine Dragons Retros.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Imagine Dragons Retros"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "ProxMox"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "networking domain hld",
+                "query": "devops",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,53 +198,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "ea65a1c467f94cc3",
+  "active": "a6b0f2ddbfdf8834",
   "lastOpenFiles": [
-    "checkpoint/My Team/Eng driven.md",
+    "checkpoint/My Team/Team home.md",
+    "checkpoint/My Team/Imagine Dragons Retros.md",
+    "checkpoint/Keren/Meetings/Keren meeting 08.10.md",
     "checkpoint/My Team/Discovery/2026_Q1/2026 Q1 Discovery meetings.md",
-    "checkpoint/Architecture/ProxMox.md",
-    "checkpoint/My Team/1On1/Chen/Chen 2025 1 on 1 meetings.md",
+    "prs/reviews/PR-5085-perimeter81-webclient-chkp-osheral.md",
+    "prs/reviews/PR-10-networking-domain-chkp-osheral.md",
+    "prs/reviews/PR-5080-perimeter81-webclient-chkp-miris.md",
+    "prs/index_prs.md",
+    "checkpoint/My Team/1On1/Muhe/Muhe 2025 1 on 1 meetings 1.md",
+    "prs/reviews/PR-909-saferx-handler-chkp-chenben.md",
+    "prs/reviews/PR-908-saferx-handler-chkp-miris.md",
+    "prs/reviews/PR-907-saferx-handler-olegkr81.md",
+    "prs/reviews/PR-906-saferx-handler-barak-84.md",
+    "prs/reviews/PR-905-saferx-handler-chkp-miris.md",
+    "prs/reviews/PR-904-saferx-handler-chkp-muhammady.md",
+    "prs/reviews/PR-903-saferx-handler-chkp-yochevedw.md",
+    "prs/reviews/PR-902-saferx-handler-chkp-chenben.md",
+    "prs/reviews/PR-901-saferx-handler-barak-84.md",
+    "prs/reviews/PR-900-saferx-handler-barak-84.md",
+    "prs/reviews/PR-899-saferx-handler-barak-84.md",
+    "prs/reviews/PR-897-saferx-handler-chkp-valentynk.md",
+    "prs/reviews/PR-898-saferx-handler-barak-84.md",
+    "prs/reviews/PR-896-saferx-handler-chkp-osheral.md",
+    "prs/reviews/PR-895-saferx-handler-chkp-osheral.md",
+    "prs/reviews/PR-894-saferx-handler-chkp-chenben.md",
+    "prs/reviews/PR-893-saferx-handler-chkp-valentynk.md",
+    "prs/reviews",
+    "prs",
     "checkpoint/Architecture",
-    "checkpoint/Organizational structure.md",
-    "checkpoint/Keren/Meetings/Keren Meeting 02.11.md",
-    "checkpoint/My Team/Imagine dragons team.md",
-    "checkpoint/My Team/Discovery/2026_Q1/Erase Network on unsubscribe.md",
-    "checkpoint/My Team/Code/Networking Domain/Networking Domain HLD High Level Design.md",
     "Pasted image 20251116164645.png",
-    "checkpoint/My Team/1On1/Yocheved/Yocheved 2025 1 on 1 meetings.md",
-    "checkpoint/Keren/Meetings/Keren Meeting 11.11.md",
     "Pasted image 20251116153032.png",
     "Pasted image 20251116153010.png",
     "Pasted image 20251116152852.png",
     "Pasted image 20251116152806.png",
     "Pasted image 20251116152624.png",
-    "checkpoint/Checkpoint Home.md",
-    "checkpoint/My Team/Code/Git repositories.md",
-    "checkpoint/My Team/Code/HLDs/HLD Deletion of terminated account - Delete GWs.md",
     "Pasted image 20251113160754.png",
     "checkpoint/My Team/Code/HLDs",
-    "checkpoint/HR Meetings.md",
     "Pasted image 20251113121122.png",
     "Pasted image 20251113115701.png",
-    "checkpoint/My Team/Code/PRs/Chen/saferx-handler P81 79981 update custom dns.md",
-    "checkpoint/My Team/Code/PRs/Miri/Changes the UX for \"Max Connections\" field in ZTA applications.md",
-    "checkpoint/My Team/Features/Private DNS.md",
     "Pasted image 20251113104000.png",
-    "checkpoint/My Team/1On1/Miri/Miri 2025 1 on 1 meetings.md",
     "checkpoint/My Team/Features",
-    "checkpoint/My Team/Code/PRs/Miri/Update HA Tunnel on Delete.md",
-    "checkpoint/Management knowledge/TL onboarding 5.11.md",
-    "checkpoint/My Team/Code/PRs/Miri/P81-86059 send ha tunnel id to validation function.md",
-    "checkpoint/My Team/Bugs tickets outages/Network Policy Pending fix.md",
-    "checkpoint/My Team/Bugs tickets outages/Outage in staging 23.10 , requeue.md",
-    "checkpoint/My Team/Bugs tickets outages/SXH Crashing.md",
-    "checkpoint/My Team/Bugs tickets outages/Greyed out networks 11.25.md",
     "checkpoint/My Team/Discovery/2026_Q1",
     "checkpoint/My Team/Discovery",
     "public_obsidian/Programming/DataStructures/Python",
     "checkpoint/My Team/Code/KT",
-    "checkpoint/Sensitive",
-    "checkpoint/My Team/Program and Execution",
-    "public_obsidian/Programming/Rust"
+    "checkpoint/Sensitive"
   ]
 }
