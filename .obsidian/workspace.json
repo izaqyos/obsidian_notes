@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/My Team/Imagine Dragons Retros.md",
+                "file": "checkpoint/My Team/1On1/Miri/Miri 2025 1 on 1 meetings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imagine Dragons Retros"
+              "title": "Miri 2025 1 on 1 meetings"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "devops",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,8 +201,10 @@
   },
   "active": "a6b0f2ddbfdf8834",
   "lastOpenFiles": [
-    "checkpoint/My Team/Team home.md",
     "checkpoint/My Team/Imagine Dragons Retros.md",
+    "prs/reviews/PR-5087-perimeter81-webclient-chkp-yochevedw.md",
+    "prs/reviews/PR-910-saferx-handler-chkp-yochevedw.md",
+    "checkpoint/My Team/Team home.md",
     "checkpoint/Keren/Meetings/Keren meeting 08.10.md",
     "checkpoint/My Team/Discovery/2026_Q1/2026 Q1 Discovery meetings.md",
     "prs/reviews/PR-5085-perimeter81-webclient-chkp-osheral.md",
@@ -224,8 +227,6 @@
     "prs/reviews/PR-898-saferx-handler-barak-84.md",
     "prs/reviews/PR-896-saferx-handler-chkp-osheral.md",
     "prs/reviews/PR-895-saferx-handler-chkp-osheral.md",
-    "prs/reviews/PR-894-saferx-handler-chkp-chenben.md",
-    "prs/reviews/PR-893-saferx-handler-chkp-valentynk.md",
     "prs/reviews",
     "prs",
     "checkpoint/Architecture",
