@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "public_obsidian/Programming/AI/Prompt engineering/Prompt Engineering.md",
+                "file": "checkpoint/My Team/Team Meetings/2025 Team meetings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Engineering"
+              "title": "2025 Team meetings"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prompt",
+                "query": "china",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,6 +200,24 @@
   },
   "active": "a6b0f2ddbfdf8834",
   "lastOpenFiles": [
+    "prs/reviews/PR-5103-perimeter81-webclient-chkp-miris.md",
+    "prs/reviews/PR-2918-perimeter81-api-chkp-yochevedw.md",
+    "checkpoint/My Team/1On1/Chen/Chen 2025 1 on 1 meetings.md",
+    "checkpoint/My Team/1On1/Yocheved/Yocheved 2025 1 on 1 meetings.md",
+    "Pasted image 20251126170829.png",
+    "checkpoint/My Team/Discovery/2026_Q1/China project.md",
+    "Pasted image 20251126160034.png",
+    "public_obsidian/Programming/CI_CD/MacSec.md",
+    "Pasted image 20251126155727.png",
+    "public_obsidian/Programming/CI_CD/BGP.md",
+    "Pasted image 20251126155301.png",
+    "public_obsidian/Programming/CI_CD/Bluebricks.md",
+    "prs/reviews/PR-2914-perimeter81-api-chkp-yochevedw.md",
+    "public_obsidian/Programming/CI_CD",
+    "Pasted image 20251126113145.png",
+    "public_obsidian/Programming/AI/Prompt engineering/Prompt Engineering.md",
+    "prs/reviews/PR-911-saferx-handler-chkp-miris.md",
+    "prs/reviews/PR-5098-perimeter81-webclient-chkp-miris.md",
     "public_obsidian/Programming/AI/AI HOME.md",
     "checkpoint/My Team/Chen Home.md",
     "checkpoint/My Team/Yocheved Home.md",
@@ -209,7 +226,6 @@
     "checkpoint/My Team/Miri Home.md",
     "checkpoint/My Team/Muhe home.md",
     "checkpoint/My Team/1On1/Muhe/Muhe 2025 1 on 1 meetings 1.md",
-    "public_obsidian/Programming/AI/Prompt engineering/Prompt Engineering.md",
     "public_obsidian/Programming/AI/Prompt engineering/Prompts Library.md",
     "public_obsidian/Programming/AI/Prompt engineering",
     "public_obsidian/Programming/Programming Home.md",
@@ -220,32 +236,15 @@
     "checkpoint/My Team/Environments",
     "checkpoint/My Team/Code/KT/KT Session Muhe.md",
     "prs/reviews/PR-341-p81-m3-scripts-chkp-osheral.md",
-    "prs/reviews/PR-16-networking-domain-chkp-osheral.md",
-    "prs/reviews/PR-10-networking-domain-chkp-osheral-v2.md",
-    "prs/reviews/PR-5083-perimeter81-webclient-chkp-miris.md",
-    "prs/reviews/PR-218-perimeter81-management-api-chkp-miris.md",
-    "prs/reviews/PR-5089-perimeter81-webclient-chkp-miris.md",
     "Pasted image 20251124122458.png",
     "Pasted image 20251124122421.png",
-    "checkpoint/My Team/Code/KT/KT Session Osher.md",
-    "prs/reviews/PR-5095-perimeter81-webclient-chkp-chenben.md",
     "Pasted image 20251124110642.png",
     "Pasted image 20251124110300.png",
-    "Pasted image 20251124105854.png",
-    "Pasted image 20251124105711.png",
-    "Pasted image 20251124105358.png",
-    "Pasted image 20251124105008.png",
-    "Pasted image 20251124104931.png",
-    "checkpoint/My Team/Code/KT/KT Home.md",
-    "checkpoint/My Team/1On1/Miri/Miri 2025 1 on 1 meetings.md",
-    "prs/reviews/PR-5078-perimeter81-webclient-chkp-chenben.md",
-    "checkpoint/My Team/Imagine Dragons Retros.md",
     "prs/reviews",
     "prs",
     "checkpoint/Architecture",
     "checkpoint/My Team/Code/HLDs",
     "checkpoint/My Team/Features",
-    "checkpoint/My Team/Discovery/2026_Q1",
-    "checkpoint/My Team/Discovery"
+    "checkpoint/My Team/Discovery/2026_Q1"
   ]
 }
