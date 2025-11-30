@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/My Team/Team Meetings/2025 Team meetings.md",
+                "file": "checkpoint/Keren/Meetings/Keren Yosi Next Meeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025 Team meetings"
+              "title": "Keren Yosi Next Meeting"
+            }
+          },
+          {
+            "id": "3c28adaa4dd35122",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           },
           {
@@ -200,9 +212,16 @@
   },
   "active": "a6b0f2ddbfdf8834",
   "lastOpenFiles": [
+    "checkpoint/Keren/Meetings/Keren Meeting 11.11.md",
+    "checkpoint/Keren/Meetings/Keren Yosi Next Meeting.md",
+    "checkpoint/Keren/Meetings/Keren meeting 5.11.md",
+    "checkpoint/My Team/1On1/Osher/Osher 2025 1 on 1 meetings.md",
+    "checkpoint/My Team/Team Meetings/2025 Team meetings.md",
+    "checkpoint/My Team/Osher Home.md",
+    "checkpoint/My Team/1On1/Chen/Chen 2025 1 on 1 meetings.md",
+    "prs/reviews/PR-912-saferx-handler-chkp-chenben.md",
     "prs/reviews/PR-5103-perimeter81-webclient-chkp-miris.md",
     "prs/reviews/PR-2918-perimeter81-api-chkp-yochevedw.md",
-    "checkpoint/My Team/1On1/Chen/Chen 2025 1 on 1 meetings.md",
     "checkpoint/My Team/1On1/Yocheved/Yocheved 2025 1 on 1 meetings.md",
     "Pasted image 20251126170829.png",
     "checkpoint/My Team/Discovery/2026_Q1/China project.md",
@@ -222,20 +241,13 @@
     "checkpoint/My Team/Chen Home.md",
     "checkpoint/My Team/Yocheved Home.md",
     "checkpoint/My Team/Yair Home.md",
-    "checkpoint/My Team/Osher Home.md",
     "checkpoint/My Team/Miri Home.md",
     "checkpoint/My Team/Muhe home.md",
     "checkpoint/My Team/1On1/Muhe/Muhe 2025 1 on 1 meetings 1.md",
-    "public_obsidian/Programming/AI/Prompt engineering/Prompts Library.md",
     "public_obsidian/Programming/AI/Prompt engineering",
-    "public_obsidian/Programming/Programming Home.md",
-    "checkpoint/My Team/Environments/Workflows.md",
     "public_obsidian/Programming/AI",
     "Pasted image 20251124182433.png",
-    "checkpoint/My Team/Untitled.md",
     "checkpoint/My Team/Environments",
-    "checkpoint/My Team/Code/KT/KT Session Muhe.md",
-    "prs/reviews/PR-341-p81-m3-scripts-chkp-osheral.md",
     "Pasted image 20251124122458.png",
     "Pasted image 20251124122421.png",
     "Pasted image 20251124110642.png",
