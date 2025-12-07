@@ -7,5 +7,14 @@
       ],
       "key": "J"
     }
+  ],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
   ]
 }

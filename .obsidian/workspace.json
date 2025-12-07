@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "3c28adaa4dd35122",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "checkpoint/Keren/Meetings/Keren Meeting 11.11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Keren Meeting 11.11"
-            }
-          },
-          {
             "id": "8e483c38749ea922",
             "type": "leaf",
             "state": {
@@ -123,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "checkpoint/Keren/Meetings/Keren Meeting 11.11.md",
+                "file": "public_obsidian/test templates meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Keren Meeting 11.11"
+              "title": "Backlinks for test templates meeting"
             }
           },
           {
@@ -195,11 +181,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "3c28adaa4dd35122",
+  "active": "8e483c38749ea922",
   "lastOpenFiles": [
+    "prs/reviews/PR-2926-perimeter81-api-chkp-chenben.md",
+    "prs/reviews/PR-918-saferx-handler-chkp-chenben.md",
+    "public_obsidian/test cursor.md",
+    "templates/cursor note.md",
+    "templates/meeting.md",
+    "templates/Meeting Minutes.md",
+    "public_obsidian/test templates meeting.md",
+    "checkpoint/Keren/Meetings/Keren Meeting 11.11.md",
+    "templates",
+    "prs/reviews/PR-349-p81-m3-scripts-sergei-ilisavskii.md",
     "checkpoint/Keren/Meetings/Keren meeting 01.12.md",
     "checkpoint/Keren/Meetings/Keren Yosi Next Meeting.md",
     "checkpoint/Keren/Meetings/Keren meeting 27.10.md",
@@ -216,7 +213,6 @@
     "prs/reviews/PR-915-saferx-handler-chkp-osheral.md",
     "checkpoint/My Team/Team Meetings/2026 Team meetings.md",
     "checkpoint/My Team/Team Meetings/2025 Team meetings.md",
-    "checkpoint/Keren/Meetings/Keren Meeting 11.11.md",
     "checkpoint/Keren/Meetings/Keren meeting 5.11.md",
     "checkpoint/My Team/1On1/Osher/Osher 2025 1 on 1 meetings.md",
     "checkpoint/My Team/Osher Home.md",
@@ -226,17 +222,9 @@
     "prs/reviews/PR-2918-perimeter81-api-chkp-yochevedw.md",
     "checkpoint/My Team/1On1/Yocheved/Yocheved 2025 1 on 1 meetings.md",
     "Pasted image 20251126170829.png",
-    "checkpoint/My Team/Discovery/2026_Q1/China project.md",
     "Pasted image 20251126160034.png",
-    "public_obsidian/Programming/CI_CD/MacSec.md",
     "Pasted image 20251126155727.png",
-    "public_obsidian/Programming/CI_CD/BGP.md",
-    "public_obsidian/Programming/CI_CD/Bluebricks.md",
-    "prs/reviews/PR-2914-perimeter81-api-chkp-yochevedw.md",
     "public_obsidian/Programming/CI_CD",
-    "public_obsidian/Programming/AI/Prompt engineering/Prompt Engineering.md",
-    "prs/reviews/PR-911-saferx-handler-chkp-miris.md",
-    "prs/reviews/PR-5098-perimeter81-webclient-chkp-miris.md",
     "public_obsidian/Programming/AI/Prompt engineering",
     "public_obsidian/Programming/AI",
     "checkpoint/My Team/Environments",
@@ -244,7 +232,6 @@
     "prs",
     "checkpoint/Architecture",
     "checkpoint/My Team/Code/HLDs",
-    "checkpoint/My Team/Features",
-    "checkpoint/My Team/Discovery/2026_Q1"
+    "checkpoint/My Team/Features"
   ]
 }
