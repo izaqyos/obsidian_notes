@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prs/index_prs.md",
+                "file": "checkpoint/My Team/Planning/Example 2026 Q1 Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index_prs"
-            }
-          },
-          {
-            "id": "8e483c38749ea922",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "checkpoint/My Team/1On1/Chen/Chen 2025 1 on 1 meetings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chen 2025 1 on 1 meetings"
+              "title": "Example 2026 Q1 Planning"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "china",
+                "query": "planning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "public_obsidian/test templates meeting.md",
+                "file": "checkpoint/My Team/Planning/Example 2026 Q1 Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test templates meeting"
+              "title": "Backlinks for Example 2026 Q1 Planning"
             }
           },
           {
@@ -185,8 +170,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8e483c38749ea922",
+  "active": "ea65a1c467f94cc3",
   "lastOpenFiles": [
+    "prs/reviews/PR-5143-perimeter81-webclient-chkp-miris.md",
+    "checkpoint/HSASE Dev Life cycle.md",
+    "checkpoint/My Team/Planning/Example 2026 Q1 Planning.md",
+    "checkpoint/My Team/Planning",
+    "prs/index_prs.md",
+    "prs/reviews/PR-926-saferx-handler-chkp-miris.md",
+    "prs/reviews/PR-5129-perimeter81-webclient-chkp-miris.md",
+    "attachments",
+    "Untitled.canvas",
+    "public_obsidian/obsidian/Learning hub.md",
+    "checkpoint/My Team/1On1/Chen/Chen 2025 1 on 1 meetings.md",
+    "public_obsidian/obsidian",
+    "prs/reviews/PR-932-saferx-handler-chkp-osheral.md",
     "Pasted image 20251211125056.png",
     "checkpoint/My Team/1On1/Miri/Miri 2025 1 on 1 meetings.md",
     "Pasted image 20251211100314.png",
@@ -196,7 +194,6 @@
     "checkpoint/Keren/Meetings/Keren Yosi Next Meeting.md",
     "prs/reviews/PR-923-saferx-handler-chkp-muhammady.md",
     "checkpoint/Keren/Meetings/Keren Meeting 11.11.md",
-    "checkpoint/My Team/1On1/Chen/Chen 2025 1 on 1 meetings.md",
     "prs/reviews/PR-5118-perimeter81-webclient-chkp-miris.md",
     "prs/reviews/PR-925-saferx-handler-chkp-miris.md",
     "prs/reviews/PR-690-saferx-dbapi-chkp-chenben.md",
@@ -207,14 +204,7 @@
     "prs/reviews/PR-2926-perimeter81-api-chkp-chenben.md",
     "prs/reviews/PR-918-saferx-handler-chkp-chenben.md",
     "public_obsidian/test cursor.md",
-    "templates/cursor note.md",
-    "templates/meeting.md",
-    "templates/Meeting Minutes.md",
-    "public_obsidian/test templates meeting.md",
     "templates",
-    "prs/reviews/PR-349-p81-m3-scripts-sergei-ilisavskii.md",
-    "checkpoint/Keren/Meetings/Keren meeting 01.12.md",
-    "checkpoint/Keren/Meetings/Keren meeting 27.10.md",
     "Pasted image 20251201112544.png",
     "Pasted image 20251201112107.png",
     "Pasted image 20251201111919.png",
@@ -223,15 +213,11 @@
     "Pasted image 20251201111703.png",
     "Pasted image 20251201111428.png",
     "Pasted image 20251126170829.png",
-    "Pasted image 20251126160034.png",
     "public_obsidian/Programming/CI_CD",
     "public_obsidian/Programming/AI/Prompt engineering",
     "public_obsidian/Programming/AI",
     "checkpoint/My Team/Environments",
     "prs/reviews",
-    "prs",
-    "checkpoint/Architecture",
-    "checkpoint/My Team/Code/HLDs",
-    "checkpoint/My Team/Features"
+    "prs"
   ]
 }

@@ -1,4 +1,5 @@
 [
   "obsidian-plugin-toc",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-admonition"
 ]
