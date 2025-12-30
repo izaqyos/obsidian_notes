@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/My Team/1On1/Osher/Osher 2025 1 on 1 meetings.md",
+                "file": "checkpoint/Admin/Travellers Room Reservation Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Osher 2025 1 on 1 meetings"
+              "title": "Travellers Room Reservation Guide"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/AI/Claude code.md",
+                "file": "checkpoint/My Team/Team FAQ 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude code"
+              "title": "Team FAQ 1"
             }
           },
           {
@@ -77,8 +77,7 @@
               "title": "release playbook"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,12 +226,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c059c7bef3e4a216",
+  "active": "ea65a1c467f94cc3",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251229182023.png",
+    "attachments/Pasted image 20251229181632.png",
+    "checkpoint/My Team/Code/Networking Domain/Celebratory message.md",
+    "checkpoint/Admin/Travellers Room Reservation Guide.md",
+    "checkpoint/Admin",
+    "attachments/Pasted image 20251229172651.png",
+    "attachments/Pasted image 20251229172610.png",
+    "checkpoint/My Team/Code/Networking Domain/Networking domain.md",
+    "checkpoint/My Team/1On1/Muhe/Muhe 2026 1 on 1 meetings 1.md",
+    "attachments/Pasted image 20251229161717.png",
+    "checkpoint/My Team/1On1/Muhe/Muhe 2025 1 on 1 meetings 1.md",
+    "prs/reviews/PR-4-networking-api-chkp-batyam.md",
+    "prs/reviews/PR-26-networking-domain-chkp-batyam.md",
+    "attachments/Pasted image 20251229124727.png",
+    "checkpoint/My Team/1On1/Osher/Osher 2025 1 on 1 meetings.md",
+    "checkpoint/My Team/Team FAQ 1.md",
+    "checkpoint/AI/Claude code.md",
     "checkpoint/My Team/1On1/Chen/Chen 2025 1 on 1 meetings.md",
     "checkpoint/My Team/Team Meetings/2026 Team meetings.md",
     "checkpoint/My Team/Code/KT/KT Session Osher.md",
-    "checkpoint/My Team/1On1/Osher/Osher 2025 1 on 1 meetings.md",
     "checkpoint/Keren/Meetings/Keren Yosi Next Meeting.md",
     "checkpoint/My Team/1On1/Miri/Miri 2025 1 on 1 meetings.md",
     "checkpoint/AI/cursor.md",
@@ -243,29 +258,14 @@
     "attachments/Pasted image 20251225173512.png",
     "attachments/Pasted image 20251225173442.png",
     "checkpoint/Keren/Meetings/Keren Yosi 23.12 release process.md",
-    "attachments/Pasted image 20251225172600.png",
-    "attachments/Pasted image 20251225172447.png",
-    "attachments/Pasted image 20251225172415.png",
-    "checkpoint/AI/Claude code.md",
     "checkpoint/My Team/Eng driven.md",
     "checkpoint/release",
     "prs/reviews/PR-5158-perimeter81-webclient-chkp-chenben.md",
     "prs/reviews/PR-27-perimeter81-api-networking-DavidGoldCheck.md",
     "prs/reviews/PR-5157-perimeter81-webclient-chkp-chenben.md",
-    "attachments/Pasted image 20251224120935.png",
-    "checkpoint/My Team/Team FAQ 1.md",
     "checkpoint/My Team/Yair Home.md",
-    "attachments/Pasted image 20251222183923.png",
     "prs/reviews/PR-370-p81-m3-scripts-chkp-osheral.md",
     "prs/reviews/PR-369-p81-m3-scripts-chkp-chenben.md",
-    "prs/reviews/PR-367-p81-m3-scripts-chkp-osheral.md",
-    "checkpoint/AI/AI Home.md",
-    "checkpoint/Keren/Meetings/Keren Yosi 10.12.md",
-    "checkpoint/Keren/Meetings/Keren Yosi Meeting  17.12.md",
-    "checkpoint/Keren/Meetings/Keren meeting 5.11.md",
-    "checkpoint/My Team/Team Meetings/2025 Team meetings.md",
-    "checkpoint/My Team/Code/HLDs/FF API networking domain.md",
-    "checkpoint/My Team/Bugs tickets outages/Bugs Dispatching KB.md",
     "prs/reviews",
     "prs",
     "checkpoint/My Team/Planning",
@@ -274,7 +274,6 @@
     "public_obsidian/obsidian",
     "templates",
     "public_obsidian/Programming/CI_CD",
-    "public_obsidian/Programming/AI/Prompt engineering",
-    "public_obsidian/Programming/AI"
+    "public_obsidian/Programming/AI/Prompt engineering"
   ]
 }
