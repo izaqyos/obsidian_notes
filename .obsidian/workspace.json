@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/Admin/Travellers Room Reservation Guide.md",
+                "file": "checkpoint/Keren/Meetings/Keren Yosi Next Meeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Travellers Room Reservation Guide"
+              "title": "Keren Yosi Next Meeting"
             }
           },
           {
@@ -69,15 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/release/release playbook.md",
+                "file": "checkpoint/AI/cursor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "release playbook"
+              "title": "cursor"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -226,12 +227,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea65a1c467f94cc3",
+  "active": "577ec3b1d487416b",
   "lastOpenFiles": [
+    "prs/reviews/PR-5171-perimeter81-webclient-chkp-osheral.md",
+    "attachments/Pasted image 20251231133850.png",
+    "checkpoint/release/release playbook.md",
+    "checkpoint/Keren/Meetings/Keren Yosi Next Meeting.md",
+    "checkpoint/Admin/Travellers Room Reservation Guide.md",
     "attachments/Pasted image 20251229182023.png",
     "attachments/Pasted image 20251229181632.png",
     "checkpoint/My Team/Code/Networking Domain/Celebratory message.md",
-    "checkpoint/Admin/Travellers Room Reservation Guide.md",
     "checkpoint/Admin",
     "attachments/Pasted image 20251229172651.png",
     "attachments/Pasted image 20251229172610.png",
@@ -248,15 +253,11 @@
     "checkpoint/My Team/1On1/Chen/Chen 2025 1 on 1 meetings.md",
     "checkpoint/My Team/Team Meetings/2026 Team meetings.md",
     "checkpoint/My Team/Code/KT/KT Session Osher.md",
-    "checkpoint/Keren/Meetings/Keren Yosi Next Meeting.md",
     "checkpoint/My Team/1On1/Miri/Miri 2025 1 on 1 meetings.md",
     "checkpoint/AI/cursor.md",
-    "checkpoint/release/release playbook.md",
     "attachments/Pasted image 20251225173824.png",
     "attachments/Pasted image 20251225173716.png",
     "attachments/Pasted image 20251225173551.png",
-    "attachments/Pasted image 20251225173512.png",
-    "attachments/Pasted image 20251225173442.png",
     "checkpoint/Keren/Meetings/Keren Yosi 23.12 release process.md",
     "checkpoint/My Team/Eng driven.md",
     "checkpoint/release",
