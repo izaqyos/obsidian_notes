@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/HSASE Organizational structure.md",
+                "file": "checkpoint/My Team/1On1/Osher/Osher 2026 1 on 1 meetings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HSASE Organizational structure"
+              "title": "Osher 2026 1 on 1 meetings"
             }
           },
           {
@@ -69,16 +69,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/My Team/1On1/Miri/Miri 2026 1 on 1 meetings.md",
+                "file": "checkpoint/My Team/1On1/Chen/Chen 2026 1 on 1 meetings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miri 2026 1 on 1 meetings"
+              "title": "Chen 2026 1 on 1 meetings"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,15 +226,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "577ec3b1d487416b",
+  "active": "ea65a1c467f94cc3",
   "lastOpenFiles": [
-    "checkpoint/My Team/1On1/Miri/Miri 2025 1 on 1 meetings.md",
+    "attachments/Pasted image 20260105161317.png",
+    "checkpoint/My Team/1On1/Osher/Osher 2025 1 on 1 meetings.md",
+    "checkpoint/My Team/1On1/Osher/Osher 2026 1 on 1 meetings.md",
+    "checkpoint/My Team/Code/KT/KT Session Osher.md",
+    "checkpoint/HSASE Organizational structure.md",
+    "checkpoint/My Team/1On1/Chen/Chen 2026 1 on 1 meetings.md",
+    "checkpoint/Keren/Meetings/2026/Keren Yosi Next Meeting.md",
+    "checkpoint/My Team/1On1/Chen/Chen 2025 1 on 1 meetings.md",
     "checkpoint/My Team/1On1/Miri/Miri 2026 1 on 1 meetings.md",
+    "checkpoint/My Team/1On1/Miri/Miri 2025 1 on 1 meetings.md",
     "checkpoint/My Team/1On1/Muhe/Muhe 2026 1 on 1 meetings 1.md",
     "checkpoint/My Team/1On1/Yair/Yair 2026 1 on 1 meetings.md",
     "checkpoint/My Team/1On1/Yair/Yair 2025 1 on 1 meetings.md",
     "checkpoint/My Team/Team FAQ 1.md",
-    "checkpoint/HSASE Organizational structure.md",
     "attachments/Pasted image 20260104114856.png",
     "attachments/Pasted image 20260104114821.png",
     "attachments/Pasted image 20260104114748.png",
@@ -244,8 +250,6 @@
     "attachments/Pasted image 20260104114507.png",
     "attachments/Pasted image 20260104114425.png",
     "attachments/Pasted image 20260104114330.png",
-    "checkpoint/Keren/Meetings/2026/Keren Yosi Next Meeting.md",
-    "checkpoint/My Team/Code/KT/KT Session Osher.md",
     "checkpoint/Keren/Meetings/Keren Yosi Next Meeting.md",
     "checkpoint/Keren/Meetings/Untitled.md",
     "checkpoint/Keren/Meetings/2026",
@@ -263,11 +267,6 @@
     "checkpoint/My Team/1On1/Muhe/Muhe 2025 1 on 1 meetings 1.md",
     "prs/reviews/PR-4-networking-api-chkp-batyam.md",
     "prs/reviews/PR-26-networking-domain-chkp-batyam.md",
-    "checkpoint/My Team/1On1/Osher/Osher 2025 1 on 1 meetings.md",
-    "checkpoint/AI/Claude code.md",
-    "checkpoint/My Team/1On1/Chen/Chen 2025 1 on 1 meetings.md",
-    "checkpoint/My Team/Team Meetings/2026 Team meetings.md",
-    "checkpoint/Keren/Meetings/2025/Keren Yosi 23.12 release process.md",
     "checkpoint/release",
     "prs/reviews",
     "prs",
