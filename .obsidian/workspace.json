@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/Keren/Meetings/2026/Keren Yosi Next Meeting.md",
+                "file": "checkpoint/AI/Claude code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keren Yosi Next Meeting"
+              "title": "Claude code"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/My Team/1On1/Muhe/Muhe 2026 1 on 1 meetings 1.md",
+                "file": "checkpoint/My Team/1On1/Miri/Miri 2026 1 on 1 meetings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Muhe 2026 1 on 1 meetings 1"
+              "title": "Miri 2026 1 on 1 meetings"
             }
           },
           {
@@ -83,15 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/ToDo.md",
+                "file": "checkpoint/My Team/1On1/Miri/Miri 2026 1 on 1 meetings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDo"
+              "title": "Miri 2026 1 on 1 meetings"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -240,16 +241,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea65a1c467f94cc3",
+  "active": "2aba490986593348",
   "lastOpenFiles": [
-    "checkpoint/Keren/Meetings/2026/Keren Yosi 14.01.md",
     "checkpoint/My Team/1On1/Chen/Chen 2026 1 on 1 meetings.md",
-    "attachments/Pasted image 20260114192357.png",
+    "checkpoint/My Team/1On1/Miri/Miri 2026 1 on 1 meetings.md",
+    "checkpoint/ToDo.md",
     "checkpoint/My Team/1On1/Muhe/Muhe 2026 1 on 1 meetings 1.md",
+    "checkpoint/AI/Claude code.md",
+    "checkpoint/Keren/Meetings/2026/Keren Yosi Next Meeting.md",
+    "checkpoint/Keren/Meetings/2026/Keren Yosi 14.01.md",
+    "attachments/Pasted image 20260114192357.png",
     "attachments/Pasted image 20260114154640.png",
     "checkpoint/My Team/1On1/Yair/Yair 2026 1 on 1 meetings.md",
     "checkpoint/My Team/Program and Execution/Discovery Process.md",
-    "checkpoint/Keren/Meetings/2026/Keren Yosi Next Meeting.md",
     "checkpoint/My Team/Team Meetings/2026 Team meetings.md",
     "checkpoint/Keren/Meetings/2026/Keren Yosi 07.01.md",
     "checkpoint/My Team/1On1/Yocheved/Yocheved 2026 1 on 1 meetings.md",
@@ -271,7 +275,6 @@
     "prs/reviews/PR-223-p81-common-dtos-chkp-chenben.md",
     "prs/reviews/PR-948-saferx-handler-chkp-muhammady.md",
     "prs/reviews/PR-387-p81-m3-scripts-chkp-osheral.md",
-    "checkpoint/ToDo.md",
     "attachments/Pasted image 20260111123223.png",
     "attachments/Pasted image 20260111123058.png",
     "checkpoint/HSASE Dev Life cycle.md",
@@ -282,7 +285,6 @@
     "attachments/Pasted image 20260108112021.png",
     "checkpoint/administrative/Birthdays.md",
     "checkpoint/administrative",
-    "checkpoint/My Team/1On1/Osher/Osher 2025 1 on 1 meetings.md",
     "checkpoint/Keren/Meetings/2026",
     "checkpoint/Keren/Meetings/2025",
     "checkpoint/Admin",
