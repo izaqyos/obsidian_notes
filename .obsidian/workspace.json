@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/My Team/1On1/Yocheved/Yocheved 2026 1 on 1 meetings.md",
+                "file": "checkpoint/Keren/Meetings/2025/Keren Yosi 23.12 release process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yocheved 2026 1 on 1 meetings"
+              "title": "Keren Yosi 23.12 release process"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "risk analysis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,8 +230,27 @@
   },
   "active": "8811e7c3f0f584f6",
   "lastOpenFiles": [
-    "checkpoint/Keren/Meetings/2026/Keren Yosi Next Meeting.md",
+    "prs/reviews/PR-204-p81-mongo-validation-schemas-chkp-yabartf.md",
+    "prs/reviews/PR-84-Perimeter81-OpenAPI-chkp-yabartf.md",
+    "prs/reviews/PR-2957-perimeter81-api-chkp-yabartf.md",
+    "prs/reviews/PR-941-saferx-handler-ipyrogov.md",
+    "prs/reviews/PR-36-networking-domain-ipyrogov.md",
+    "checkpoint/My Team/1On1/Yocheved/Yocheved 2026 1 on 1 meetings.md",
+    "checkpoint/My Team/1On1/Yair/Yair 2026 1 on 1 meetings.md",
+    "checkpoint/My Team/1On1/Muhe/Muhe 2026 1 on 1 meetings 1.md",
     "checkpoint/My Team/1On1/Chen/Chen 2026 1 on 1 meetings.md",
+    "checkpoint/administrative/Office WFH exceptions.md",
+    "checkpoint/Keren/Meetings/2026/Keren Yosi 14.01.md",
+    "checkpoint/Keren/Meetings/2026/Keren Yosi 07.01.md",
+    "checkpoint/Keren/Meetings/2025/Keren meeting 27.10.md",
+    "checkpoint/Keren/Meetings/2025/Keren Meeting 11.11.md",
+    "checkpoint/Keren/Meetings/2025/Keren meeting 08.10.md",
+    "checkpoint/Keren/Meetings/2025/Keren meeting 01.12.md",
+    "checkpoint/Keren/Meetings/2025/Keren Meeting 02.11.md",
+    "checkpoint/Keren/Meetings/2025/Keren meeting 5.11.md",
+    "checkpoint/Keren/Meetings/2025/Keren Yosi 23.12 release process.md",
+    "checkpoint/Keren/Meetings/2026/Keren Yosi Next Meeting.md",
+    "checkpoint/Keren/Meetings/Keren Yosi Next Meeting.md",
     "attachments/Pasted image 20260121132347.png",
     "checkpoint/My Team/1On1/Miri/Miri 2026 1 on 1 meetings.md",
     "checkpoint/My Team/Team home.md",
@@ -239,37 +259,19 @@
     "attachments/Pasted image 20260120174107.png",
     "checkpoint/My Team/Program and Execution/Discovery Process.md",
     "checkpoint/ToDo.md",
-    "checkpoint/My Team/1On1/Muhe/Muhe 2026 1 on 1 meetings 1.md",
     "checkpoint/AI/Claude code.md",
-    "checkpoint/Keren/Meetings/2026/Keren Yosi 14.01.md",
     "attachments/Pasted image 20260114192357.png",
     "attachments/Pasted image 20260114154640.png",
-    "checkpoint/My Team/1On1/Yair/Yair 2026 1 on 1 meetings.md",
-    "checkpoint/My Team/Team Meetings/2026 Team meetings.md",
-    "checkpoint/Keren/Meetings/2026/Keren Yosi 07.01.md",
-    "checkpoint/My Team/1On1/Yocheved/Yocheved 2026 1 on 1 meetings.md",
     "attachments/Pasted image 20260113144833.png",
-    "Keren/Meetings.md",
-    "checkpoint/administrative/Da Vinci.md",
     "Keren",
     "attachments/Pasted image 20260113112934.png",
     "attachments/Pasted image 20260112183935.png",
     "attachments/Pasted image 20260112183011.png",
-    "checkpoint/My Team/1On1/Osher/Osher 2026 1 on 1 meetings.md",
     "checkpoint/My Team/Program and Execution/Discovery/2026 Discovery",
     "checkpoint/My Team/Program and Execution/Discovery",
     "checkpoint/administrative/performance reviews",
     "attachments/Pasted image 20260112152517.png",
-    "public_obsidian/Programming/CI_CD/Bluebricks.md",
-    "checkpoint/Keren/Meetings/2025/Keren meeting 08.10.md",
-    "checkpoint/administrative/Jira/Create new story.md",
-    "prs/reviews/PR-223-p81-common-dtos-chkp-chenben.md",
-    "prs/reviews/PR-948-saferx-handler-chkp-muhammady.md",
-    "prs/reviews/PR-387-p81-m3-scripts-chkp-osheral.md",
-    "checkpoint/HSASE Dev Life cycle.md",
     "checkpoint/administrative/Jira",
-    "checkpoint/administrative/Jira.md",
-    "prs/reviews/PR-14-networking-api-chkp-miris.md",
     "checkpoint/administrative",
     "checkpoint/Keren/Meetings/2026",
     "checkpoint/Keren/Meetings/2025",
