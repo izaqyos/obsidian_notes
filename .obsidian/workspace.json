@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/AI/Claude code.md",
+                "file": "checkpoint/Admin/Travellers Room Reservation Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude code"
+              "title": "Travellers Room Reservation Guide"
+            }
+          },
+          {
+            "id": "bd97c088b8b74142",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
             }
           },
           {
@@ -27,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkpoint/Keren/Meetings/2025/Keren Yosi 23.12 release process.md",
+                "file": "checkpoint/administrative/Office WFH exceptions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keren Yosi 23.12 release process"
+              "title": "Office WFH exceptions"
             }
           },
           {
@@ -76,9 +88,22 @@
               "icon": "lucide-file",
               "title": "Team home"
             }
+          },
+          {
+            "id": "4d4a8c2d905c2082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "checkpoint/AI/cursor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cursor"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "risk analysis",
+                "query": "travel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,18 +253,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8811e7c3f0f584f6",
+  "active": "ea65a1c467f94cc3",
   "lastOpenFiles": [
+    "public_obsidian/Programming/AI/AI Terms Cheatsheet.md",
+    "checkpoint/My Team/1On1/Chen/Chen 2026 1 on 1 meetings.md",
+    "checkpoint/My Team/1On1/Yair/Yair 2026 1 on 1 meetings.md",
+    "checkpoint/AI/cursor.md",
+    "checkpoint/My Team/1On1/Yocheved/Yocheved 2026 1 on 1 meetings.md",
+    "checkpoint/AI/Checkpoint AI tools.md",
+    "checkpoint/My Team/Team home.md",
+    "checkpoint/My Team/Program and Execution/Discovery Process.md",
+    "checkpoint/My Team/Team Meetings/2026 Team meetings.md",
+    "checkpoint/administrative/Office WFH exceptions.md",
+    "checkpoint/Keren/Meetings/2025/Keren Yosi 23.12 release process.md",
+    "attachments/Pasted image 20260126114042.png",
+    "checkpoint/My Team/1On1/Osher/Osher 2026 1 on 1 meetings.md",
+    "checkpoint/AI/Claude code.md",
     "prs/reviews/PR-204-p81-mongo-validation-schemas-chkp-yabartf.md",
     "prs/reviews/PR-84-Perimeter81-OpenAPI-chkp-yabartf.md",
     "prs/reviews/PR-2957-perimeter81-api-chkp-yabartf.md",
     "prs/reviews/PR-941-saferx-handler-ipyrogov.md",
     "prs/reviews/PR-36-networking-domain-ipyrogov.md",
-    "checkpoint/My Team/1On1/Yocheved/Yocheved 2026 1 on 1 meetings.md",
-    "checkpoint/My Team/1On1/Yair/Yair 2026 1 on 1 meetings.md",
     "checkpoint/My Team/1On1/Muhe/Muhe 2026 1 on 1 meetings 1.md",
-    "checkpoint/My Team/1On1/Chen/Chen 2026 1 on 1 meetings.md",
-    "checkpoint/administrative/Office WFH exceptions.md",
     "checkpoint/Keren/Meetings/2026/Keren Yosi 14.01.md",
     "checkpoint/Keren/Meetings/2026/Keren Yosi 07.01.md",
     "checkpoint/Keren/Meetings/2025/Keren meeting 27.10.md",
@@ -247,19 +282,10 @@
     "checkpoint/Keren/Meetings/2025/Keren meeting 08.10.md",
     "checkpoint/Keren/Meetings/2025/Keren meeting 01.12.md",
     "checkpoint/Keren/Meetings/2025/Keren Meeting 02.11.md",
-    "checkpoint/Keren/Meetings/2025/Keren meeting 5.11.md",
-    "checkpoint/Keren/Meetings/2025/Keren Yosi 23.12 release process.md",
-    "checkpoint/Keren/Meetings/2026/Keren Yosi Next Meeting.md",
-    "checkpoint/Keren/Meetings/Keren Yosi Next Meeting.md",
     "attachments/Pasted image 20260121132347.png",
-    "checkpoint/My Team/1On1/Miri/Miri 2026 1 on 1 meetings.md",
-    "checkpoint/My Team/Team home.md",
     "Untitled.canvas",
     "attachments/Pasted image 20260120183310.png",
     "attachments/Pasted image 20260120174107.png",
-    "checkpoint/My Team/Program and Execution/Discovery Process.md",
-    "checkpoint/ToDo.md",
-    "checkpoint/AI/Claude code.md",
     "attachments/Pasted image 20260114192357.png",
     "attachments/Pasted image 20260114154640.png",
     "attachments/Pasted image 20260113144833.png",
@@ -270,7 +296,6 @@
     "checkpoint/My Team/Program and Execution/Discovery/2026 Discovery",
     "checkpoint/My Team/Program and Execution/Discovery",
     "checkpoint/administrative/performance reviews",
-    "attachments/Pasted image 20260112152517.png",
     "checkpoint/administrative/Jira",
     "checkpoint/administrative",
     "checkpoint/Keren/Meetings/2026",
