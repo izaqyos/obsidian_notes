@@ -16,5 +16,13 @@
       ],
       "key": "T"
     }
+  ],
+  "infio-copilot:autocomplete-enable": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
   ]
 }
